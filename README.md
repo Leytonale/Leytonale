@@ -25,7 +25,8 @@ QA Analyst | LabsXD | Remote
 
 QA Tester (Freelance) | uTest | Remote
 
-    Performed manual testing on various web and mobile applications, providing detailed bug reports and feedback to clients.
+    Performed manual testing on various web and mobile applications, providing detailed bug reports 
+    and feedback to clients.
     Conducted test case design and execution to assess application functionality.
 
 Personal Computer Repair Technician | Individual | On-site
