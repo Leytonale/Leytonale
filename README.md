@@ -3,7 +3,8 @@ Hi there! 👋
 I'm Alejandro, a passionate Quality Assurance (QA) Analyst with expertise in ensuring top-notch quality for software and IoT-related projects. My professional journey showcases my ability to identify and tackle critical issues throughout the software development lifecycle. Collaborating with developers and engineers, I thrive on addressing technical challenges and achieving successful outcomes.
 🛠️ Skills & Technologies
 
-    QA Testing: Proficient in manual and automated testing methodologies, identifying defects, and ensuring the highest quality standards.
+    QA Testing: Proficient in manual and automated testing methodologies, identifying defects,
+    and ensuring the highest quality standards.
     Python: Skilled in Python programming, using it for test automation and data analysis.
     JavaScript: Experienced in JavaScript for front-end testing and interacting with web applications.
     Git & GitHub: Utilizing version control and collaborative development to manage projects efficiently.
@@ -18,7 +19,8 @@ I'm Alejandro, a passionate Quality Assurance (QA) Analyst with expertise in ens
 
 QA Analyst | LabsXD | Remote
 
-    Conducted thorough testing of software products, identifying and documenting defects to ensure optimal performance and user experience.
+    Conducted thorough testing of software products, identifying and documenting defects to ensure 
+    optimal performance and user experience.
     Collaborated with development teams to resolve issues and implement improvements.
 
 QA Tester (Freelance) | uTest | Remote
