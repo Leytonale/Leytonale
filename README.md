@@ -36,11 +36,11 @@ Personal Computer Repair Technician | Individual | On-site
 
 📚 Education
 
-Superior Technical Degree in IoT Innovation and Technologies 4.0 | Ongoing
+Superior Technical Degree in IoT Innovation and Technologies 4.0 | Graduated
 
     Instituto Superior Politecnico Cordoba
 
-Superior Technical Degree in Telecommunications | Ongoing
+Superior Technical Degree in Telecommunications | Graduated
 
     Instituto Superior Politecnico Cordoba
 
